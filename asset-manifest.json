@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dotwitch/static/css/main.c634beee.css",
+    "main.js": "/dotwitch/static/js/main.147f65eb.js",
+    "index.html": "/dotwitch/index.html",
+    "main.c634beee.css.map": "/dotwitch/static/css/main.c634beee.css.map",
+    "main.147f65eb.js.map": "/dotwitch/static/js/main.147f65eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c634beee.css",
+    "static/js/main.147f65eb.js"
+  ]
+}
