@@ -47,6 +47,7 @@ const App = () => {
   }
 
   const pushToArray = (streamData) => {
+    //Adding streams
     setStreams(streams => [...streams, ...streamData.twitchStreamData.filter(obj => obj.viewer_count === 0)]);
   }
 
